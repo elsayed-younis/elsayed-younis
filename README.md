@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Elsayed Younis 👋
+### Junior Spatial Data Engineer | GIS & Remote Sensing
 
-<!--
-**elsayed-younis/elsayed-younis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building scalable field-to-cloud spatial pipelines, automated geospatial workflows, and dimensional spatial databases.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack & Tools
+- **Spatial Databases:** PostgreSQL / PostGIS, SQL Server, Schema Design
+- **Programming & Libraries:** Python (GeoPandas, Shapely, Rasterio, ArcPy), SQL
+- **Cloud & Automation:** Docker, Apache Airflow, Google Earth Engine
+- **GIS Software:** ArcGIS Pro, QGIS, FME
+
+---
+
+### 📂 Featured Focus Areas
+- Automated Spatial ETL/ELT Pipelines
+- Topology Validation & Spatial Indexing
+- Utility Network Migrations & Enterprise Geodatabases
+- Satellite Imagery Processing & Environmental Risk Modeling
+
+📫 **Connect:** [LinkedIn](https://www.linkedin.com/in/elsayed-y0unis/)
